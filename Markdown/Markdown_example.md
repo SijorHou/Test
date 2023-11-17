@@ -6,7 +6,7 @@
 # Dillinger
 ## The Last Markdown Editor, Ever
 
-![Markdown doc](2023-11-15-19-31-50.png)
+![Markdown doc and website](2023-11-15-19-31-50.png)
 (https://www.markdownguide.org/getting-started/)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
